@@ -1,1 +1,2 @@
-# Kodluyoruz-ilk--dev
+# ÖDEV
+Front-end Açıklama-Başlık-Paragraf
